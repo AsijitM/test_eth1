@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="h-[calc(100vh-71px)] flex flex-col items-center justify-center space-y-2 text-white bg-black">
-        <img src="/cryptocurreny.png" alt="" />
+        {/* <img src="/cryptocurrency.png" alt="" /> */}
         <h1 className="text-9xl">Mudra</h1>
         <p className="text-lg">The Only DAO / Community product you will need.</p>
         <button className="bg-[#6200C5] px-4 py-2 text-white rounded-lg transition hover:scale-95">
